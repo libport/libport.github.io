@@ -2,6 +2,12 @@
   "feed_title": "Lost Memos",
   "posts": [
     {
+      "published_at": "2026-03-22T09:25:28+00:00",
+      "title": "Pawn Stars and Prosperity Signs",
+      "excerpt": "People often judge suburbs by their most conspicuous areas, like the cafe strip, the fresh paint on the station, the new apartment tower with native grasses out the front.",
+      "url": "https://lostmemos.substack.com/p/pawn-stars-and-prosperity-signs"
+    },
+    {
       "published_at": "2026-03-16T05:27:46+00:00",
       "title": "Psych: The Story of the Human Mind by Paul Bloom",
       "excerpt": "Paul Bloom’s Psych: The Story of the Human Mind is a lively, intelligent tour through the most interesting questions in psychology.",
@@ -36,12 +42,6 @@
       "title": "Declining Empires and Documentation Errors",
       "excerpt": "If you want a surprisingly practical template for technical writing, look to The History of the Decline and Fall of the Roman Empire by Edward Gibbon.",
       "url": "https://lostmemos.substack.com/p/decline-fall-doc"
-    },
-    {
-      "published_at": "2026-02-09T15:00:00+00:00",
-      "title": "The Straw that Holds Up the Camel’s Back",
-      "excerpt": "In many large organisations, technical subject matter experts (SMEs) are quietly essential yet chronically undervalued.",
-      "url": "https://lostmemos.substack.com/p/straw-camel"
     }
   ]
 }
