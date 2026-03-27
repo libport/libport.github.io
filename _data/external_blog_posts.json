@@ -2,6 +2,12 @@
   "feed_title": "Lost Memos",
   "posts": [
     {
+      "published_at": "2026-03-27T07:01:24+00:00",
+      "title": "Jack of All Trades, Master of None",
+      "excerpt": "… better than master of one.",
+      "url": "https://lostmemos.substack.com/p/jack-of-all-trades-master-of-none"
+    },
+    {
       "published_at": "2026-03-25T12:48:45+00:00",
       "title": "OpenAI, Anthropic: Give People an AI Mini-App Builder",
       "excerpt": "An Open Letter to OpenAI and Anthropic: Build the “App Playground” and Unlock the Ingenuity of People",
@@ -36,12 +42,6 @@
       "title": "Books vs Ebooks in UX",
       "excerpt": "Physical books possess a defining characteristic that reflowable ebook formats (.epub, .mobi) struggle to replicate.",
       "url": "https://lostmemos.substack.com/p/books-vs-ebooks"
-    },
-    {
-      "published_at": "2026-02-19T15:00:00+00:00",
-      "title": "Upcoming Series of Book Reviews",
-      "excerpt": "I suspect that it may be many years, if ever, that I will again have the freedom to engage in freewheeling intellectual inquiry (relatively) unconstrained by the typical strictures of life.",
-      "url": "https://lostmemos.substack.com/p/book-reviews"
     }
   ]
 }
