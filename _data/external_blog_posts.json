@@ -2,6 +2,12 @@
   "feed_title": "Lost Memos",
   "posts": [
     {
+      "published_at": "2026-03-29T07:22:03+00:00",
+      "title": "How to Protect Your Budget, Job and Investments in a Supply-Shock Recession",
+      "excerpt": "The present oil shock has the feel of an old problem in modern dress.",
+      "url": "https://lostmemos.substack.com/p/how-to-protect-your-budget-and-your"
+    },
+    {
       "published_at": "2026-03-27T07:01:24+00:00",
       "title": "Jack of All Trades, Master of None",
       "excerpt": "… better than master of one.",
@@ -16,7 +22,7 @@
     {
       "published_at": "2026-03-24T04:27:00+00:00",
       "title": "Privacy by Obscurity, No Longer",
-      "excerpt": "For a long time, privacy survived less because data was truly anonymised than because analysing it was tedious, slow and expensive.",
+      "excerpt": "For a long time, privacy survived less because data was truly anonymised than because analysing it was tedious, slow, and expensive.",
       "url": "https://lostmemos.substack.com/p/privacy-by-obscurity-no-longer"
     },
     {
@@ -36,12 +42,6 @@
       "title": "GitHub Repos as an Auditable Learning Log",
       "excerpt": "Publishing notes and projects on GitHub as part of your study routine can do more than display enthusiasm.",
       "url": "https://lostmemos.substack.com/p/github-log"
-    },
-    {
-      "published_at": "2026-02-21T15:00:00+00:00",
-      "title": "Books vs Ebooks in UX",
-      "excerpt": "Physical books possess a defining characteristic that reflowable ebook formats (.epub, .mobi) struggle to replicate.",
-      "url": "https://lostmemos.substack.com/p/books-vs-ebooks"
     }
   ]
 }
