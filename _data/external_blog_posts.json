@@ -2,8 +2,14 @@
   "feed_title": "Lost Memos",
   "posts": [
     {
+      "published_at": "2026-04-02T07:36:16+00:00",
+      "title": "30 Day Writing Tips",
+      "excerpt": "After a month of writing on Substack, here are my top 5 tips for people looking to grow and possibly monetise their Substack.",
+      "url": "https://lostmemos.substack.com/p/30-day-writing-tips"
+    },
+    {
       "published_at": "2026-03-29T07:22:03+00:00",
-      "title": "How to Protect Your Budget, Job and Investments in a Supply-Shock Recession",
+      "title": "How to Protect Your Budget, Job, and Investments in a Supply-Shock Recession",
       "excerpt": "The present oil shock has the feel of an old problem in modern dress.",
       "url": "https://lostmemos.substack.com/p/how-to-protect-your-budget-and-your"
     },
@@ -36,12 +42,6 @@
       "title": "Psych: The Story of the Human Mind by Paul Bloom",
       "excerpt": "Paul Bloom’s Psych: The Story of the Human Mind is a lively, intelligent tour through the most interesting questions in psychology.",
       "url": "https://lostmemos.substack.com/p/psych-the-story-of-the-human-mind"
-    },
-    {
-      "published_at": "2026-03-09T15:00:00+00:00",
-      "title": "GitHub Repos as an Auditable Learning Log",
-      "excerpt": "Publishing notes and projects on GitHub as part of your study routine can do more than display enthusiasm.",
-      "url": "https://lostmemos.substack.com/p/github-log"
     }
   ]
 }
