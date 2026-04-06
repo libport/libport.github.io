@@ -2,9 +2,15 @@
   "feed_title": "Lost Memos",
   "posts": [
     {
+      "published_at": "2026-04-06T07:33:23+00:00",
+      "title": "Publishing House? No, Media Company",
+      "excerpt": "A non-fiction publisher that believes it is in the book business is already behind.",
+      "url": "https://lostmemos.substack.com/p/publishing-house-no-media-company"
+    },
+    {
       "published_at": "2026-04-02T07:36:16+00:00",
       "title": "30 Day Writing Tips",
-      "excerpt": "After a month of writing on Substack, here are my top 5 tips for people looking to grow and possibly monetise their Substack.",
+      "excerpt": "After a month of writing (and reading) on Substack, here are my top 5 tips for people looking to grow and possibly monetise their Substack.",
       "url": "https://lostmemos.substack.com/p/30-day-writing-tips"
     },
     {
@@ -36,12 +42,6 @@
       "title": "Pawn Stars and Prosperity Signs",
       "excerpt": "People often judge suburbs by their most conspicuous areas, like the cafe strip, the fresh paint on the station, or the new apartment tower with native grasses out the front.",
       "url": "https://lostmemos.substack.com/p/pawn-stars-and-prosperity-signs"
-    },
-    {
-      "published_at": "2026-03-16T05:27:46+00:00",
-      "title": "Psych: The Story of the Human Mind by Paul Bloom",
-      "excerpt": "Paul Bloom’s Psych: The Story of the Human Mind is a lively, intelligent tour through the most interesting questions in psychology.",
-      "url": "https://lostmemos.substack.com/p/psych-the-story-of-the-human-mind"
     }
   ]
 }
