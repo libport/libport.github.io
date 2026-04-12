@@ -2,6 +2,18 @@
   "feed_title": "Lost Memos",
   "posts": [
     {
+      "published_at": "2026-04-12T06:19:37+00:00",
+      "title": "Jesters and Mimes in Compliance Theatre",
+      "excerpt": "Lessons learned from outsourcing responsibility and compliance theatre.",
+      "url": "https://lostmemos.substack.com/p/jesters-and-mimes-in-compliance"
+    },
+    {
+      "published_at": "2026-04-10T09:08:29+00:00",
+      "title": "Beginner Stylometry, Part 1: How to be a literary detective",
+      "excerpt": "Authorship, and whether it is human or AI, has been a hot topic recently.",
+      "url": "https://lostmemos.substack.com/p/beginner-stylometry-part-1-how-to"
+    },
+    {
       "published_at": "2026-04-06T07:33:23+00:00",
       "title": "Publishing House? No, Media Company",
       "excerpt": "A non-fiction publisher that believes it is in the book business is already behind.",
@@ -30,18 +42,6 @@
       "title": "OpenAI, Anthropic: Give People an AI Mini-App Builder",
       "excerpt": "An Open Letter to OpenAI and Anthropic: Build the “App Playground” and Unlock the Ingenuity of People",
       "url": "https://lostmemos.substack.com/p/openai-anthropic-give-people-an-ai"
-    },
-    {
-      "published_at": "2026-03-24T04:27:00+00:00",
-      "title": "Privacy by Obscurity, No Longer",
-      "excerpt": "For a long time, privacy survived less because data was truly anonymised than because analysing it was tedious, slow, and expensive.",
-      "url": "https://lostmemos.substack.com/p/privacy-by-obscurity-no-longer"
-    },
-    {
-      "published_at": "2026-03-22T09:25:28+00:00",
-      "title": "Pawn Stars and Prosperity Signs",
-      "excerpt": "People often judge suburbs by their most conspicuous areas, like the cafe strip, the fresh paint on the station, or the new apartment tower with native grasses out the front.",
-      "url": "https://lostmemos.substack.com/p/pawn-stars-and-prosperity-signs"
     }
   ]
 }
