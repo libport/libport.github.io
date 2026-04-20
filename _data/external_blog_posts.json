@@ -2,9 +2,27 @@
   "feed_title": "Lost Memos",
   "posts": [
     {
+      "published_at": "2026-04-19T23:01:12+00:00",
+      "title": "AI-Driven 'Efficiency' or Promotion-Driven Sleight-of-hand?",
+      "excerpt": "In too many boardrooms, AI is being sold as a lever.",
+      "url": "https://lostmemos.substack.com/p/ai-driven-efficiency-or-promotion"
+    },
+    {
+      "published_at": "2026-04-17T10:04:05+00:00",
+      "title": "Beginner Stylometry, Part 2: Literary treasure hunter",
+      "excerpt": "If Part 1 gave you the mental model, this post gives you the foundation.",
+      "url": "https://lostmemos.substack.com/p/beginner-stylometry-part-2-literary"
+    },
+    {
+      "published_at": "2026-04-12T23:01:38+00:00",
+      "title": "AI in Publishing, a deceitful big bad wolf?",
+      "excerpt": "In some parts of publishing, a book is not just a book.",
+      "url": "https://lostmemos.substack.com/p/ai-in-publishing-a-deceitful-big"
+    },
+    {
       "published_at": "2026-04-12T06:19:37+00:00",
       "title": "Jesters and Mimes in Compliance Theatre",
-      "excerpt": "Lessons learned from outsourcing responsibility and compliance theatre.",
+      "excerpt": "First-party lessons from third-party attempts to outsource responsibility.",
       "url": "https://lostmemos.substack.com/p/jesters-and-mimes-in-compliance"
     },
     {
@@ -24,24 +42,6 @@
       "title": "30 Day Writing Tips",
       "excerpt": "After a month of writing (and reading) on Substack, here are my top 5 tips for people looking to grow and possibly monetise their Substack.",
       "url": "https://lostmemos.substack.com/p/30-day-writing-tips"
-    },
-    {
-      "published_at": "2026-03-29T07:22:03+00:00",
-      "title": "How to Protect Your Budget, Job, and Investments in a Supply-Shock Recession",
-      "excerpt": "The present oil shock has the feel of an old problem in modern dress.",
-      "url": "https://lostmemos.substack.com/p/how-to-protect-your-budget-and-your"
-    },
-    {
-      "published_at": "2026-03-27T07:01:24+00:00",
-      "title": "Jack of All Trades, Master of None",
-      "excerpt": "… better than master of one.",
-      "url": "https://lostmemos.substack.com/p/jack-of-all-trades-master-of-none"
-    },
-    {
-      "published_at": "2026-03-25T12:48:45+00:00",
-      "title": "OpenAI, Anthropic: Give People an AI Mini-App Builder",
-      "excerpt": "An Open Letter to OpenAI and Anthropic: Build the “App Playground” and Unlock the Ingenuity of People",
-      "url": "https://lostmemos.substack.com/p/openai-anthropic-give-people-an-ai"
     }
   ]
 }
