@@ -2,8 +2,14 @@
   "feed_title": "Lost Memos",
   "posts": [
     {
+      "published_at": "2026-05-10T23:01:57+00:00",
+      "title": "Not Waiting on Game of Thrones Anymore",
+      "excerpt": "When readers buy the first book in a series, they are not merely buying paper, ink, or pixels.",
+      "url": "https://lostmemos.substack.com/p/not-waiting-on-game-of-thrones-anymore"
+    },
+    {
       "published_at": "2026-04-19T23:01:12+00:00",
-      "title": "AI-Driven 'Efficiency' or Promotion-Driven Sleight-of-hand?",
+      "title": "AI-Driven 'Efficiency' or Promotion-Driven Sleight-of-Hand?",
       "excerpt": "In too many boardrooms, AI is being sold as a lever.",
       "url": "https://lostmemos.substack.com/p/ai-driven-efficiency-or-promotion"
     },
@@ -36,12 +42,6 @@
       "title": "Publishing House? No, Media Company",
       "excerpt": "A non-fiction publisher that believes it is in the book business is already behind.",
       "url": "https://lostmemos.substack.com/p/publishing-house-no-media-company"
-    },
-    {
-      "published_at": "2026-04-02T07:36:16+00:00",
-      "title": "30 Day Writing Tips",
-      "excerpt": "After a month of writing (and reading) on Substack, here are my top 5 tips for people looking to grow and possibly monetise their Substack.",
-      "url": "https://lostmemos.substack.com/p/30-day-writing-tips"
     }
   ]
 }
