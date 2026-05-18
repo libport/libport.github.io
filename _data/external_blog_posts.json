@@ -2,6 +2,12 @@
   "feed_title": "Lost Memos",
   "posts": [
     {
+      "published_at": "2026-05-18T08:49:42+00:00",
+      "title": "Non-Functional Requirements Will Keep Humans Essential in an AI-Driven World",
+      "excerpt": "AI has become remarkably good at helping people satisfy functional requirements.",
+      "url": "https://lostmemos.substack.com/p/non-functional-requirements-will"
+    },
+    {
       "published_at": "2026-05-10T23:01:57+00:00",
       "title": "Not Waiting on Game of Thrones Anymore",
       "excerpt": "When readers buy the first book in a series, they are not merely buying paper, ink, or pixels.",
@@ -36,12 +42,6 @@
       "title": "Beginner Stylometry, Part 1: How to be a literary detective",
       "excerpt": "Authorship, and whether it is human or AI, has been a hot topic recently.",
       "url": "https://lostmemos.substack.com/p/beginner-stylometry-part-1-how-to"
-    },
-    {
-      "published_at": "2026-04-06T07:33:23+00:00",
-      "title": "Publishing House? No, Media Company",
-      "excerpt": "A non-fiction publisher that believes it is in the book business is already behind.",
-      "url": "https://lostmemos.substack.com/p/publishing-house-no-media-company"
     }
   ]
 }
