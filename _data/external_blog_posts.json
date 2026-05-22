@@ -2,6 +2,12 @@
   "feed_title": "Lost Memos",
   "posts": [
     {
+      "published_at": "2026-05-21T23:01:01+00:00",
+      "title": "The 48 Laws of Power, Truth, Lies, and Truthful Lies",
+      "excerpt": "Robert Greene’s The 48 Laws of Power reads less like a history book than a candlelit theatre.",
+      "url": "https://lostmemos.substack.com/p/the-48-laws-of-power-and-true-lies"
+    },
+    {
       "published_at": "2026-05-18T08:49:42+00:00",
       "title": "Non-Functional Requirements for Functional Human Beings",
       "excerpt": "AI has become remarkably good at helping people satisfy functional requirements.",
@@ -10,7 +16,7 @@
     {
       "published_at": "2026-05-10T23:01:57+00:00",
       "title": "Not Waiting on Game of Thrones Anymore",
-      "excerpt": "When readers buy the first book in a series, they are not merely buying paper, ink, or pixels.",
+      "excerpt": "When readers buy the first book in a series, they are not just buying paper, ink, or pixels.",
       "url": "https://lostmemos.substack.com/p/not-waiting-on-game-of-thrones-anymore"
     },
     {
@@ -36,12 +42,6 @@
       "title": "Jesters and Mimes in Compliance Theatre",
       "excerpt": "First-party lessons from third-party attempts to outsource responsibility.",
       "url": "https://lostmemos.substack.com/p/jesters-and-mimes-in-compliance"
-    },
-    {
-      "published_at": "2026-04-10T09:08:29+00:00",
-      "title": "Beginner Stylometry, Part 1: How to be a literary detective",
-      "excerpt": "Authorship, and whether it is human or AI, has been a hot topic recently.",
-      "url": "https://lostmemos.substack.com/p/beginner-stylometry-part-1-how-to"
     }
   ]
 }
