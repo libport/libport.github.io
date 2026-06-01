@@ -2,6 +2,12 @@
   "feed_title": "Lost Memos",
   "posts": [
     {
+      "published_at": "2026-05-31T23:01:00+00:00",
+      "title": "I’m Here to Buy Monkeys with My Peanuts",
+      "excerpt": "“They throw a lot of poop”",
+      "url": "https://lostmemos.substack.com/p/im-here-to-buy-monkeys-with-my-peanuts"
+    },
+    {
       "published_at": "2026-05-24T23:01:17+00:00",
       "title": "Intelligence, Human and Artificial",
       "excerpt": "The industrialisation of education promised efficiency, standardisation, and measurable outcomes.",
@@ -36,12 +42,6 @@
       "title": "Beginner Stylometry, Part 2: Literary treasure hunter",
       "excerpt": "If Part 1 gave you the mental model, this post gives you the foundation.",
       "url": "https://lostmemos.substack.com/p/beginner-stylometry-part-2-literary"
-    },
-    {
-      "published_at": "2026-04-12T23:01:38+00:00",
-      "title": "AI in Publishing, a deceitful big bad wolf?",
-      "excerpt": "In some parts of publishing, a book is not just a book.",
-      "url": "https://lostmemos.substack.com/p/ai-in-publishing-a-deceitful-big"
     }
   ]
 }
