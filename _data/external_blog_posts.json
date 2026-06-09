@@ -2,6 +2,12 @@
   "feed_title": "Lost Memos",
   "posts": [
     {
+      "published_at": "2026-06-07T23:01:12+00:00",
+      "title": "Mutual Back-Scratching Makes Everyone Else Itchy",
+      "excerpt": "When one person or a close-knit team becomes the gatekeeper for assessing and selecting external suppliers, the organisation takes on more risk than it often realises.",
+      "url": "https://lostmemos.substack.com/p/mutual-back-scratching-makes-everyone"
+    },
+    {
       "published_at": "2026-05-31T23:01:00+00:00",
       "title": "I’m Here to Buy Monkeys with My Peanuts",
       "excerpt": "“They throw a lot of poop”",
@@ -36,12 +42,6 @@
       "title": "AI-Driven 'Efficiency' or Promotion-Driven Sleight-of-Hand?",
       "excerpt": "In too many boardrooms, AI is being sold as a lever.",
       "url": "https://lostmemos.substack.com/p/ai-driven-efficiency-or-promotion"
-    },
-    {
-      "published_at": "2026-04-17T10:04:05+00:00",
-      "title": "Beginner Stylometry, Part 2: Literary treasure hunter",
-      "excerpt": "If Part 1 gave you the mental model, this post gives you the foundation.",
-      "url": "https://lostmemos.substack.com/p/beginner-stylometry-part-2-literary"
     }
   ]
 }
