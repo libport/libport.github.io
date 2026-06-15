@@ -2,6 +2,12 @@
   "feed_title": "Lost Memos",
   "posts": [
     {
+      "published_at": "2026-06-14T23:01:26+00:00",
+      "title": "The Store-Brand Future of AI",
+      "excerpt": "Neither supermarkets nor AI-markets need their store-brand items to be better than the premium products.",
+      "url": "https://lostmemos.substack.com/p/the-store-brand-future-of-ai"
+    },
+    {
       "published_at": "2026-06-07T23:01:12+00:00",
       "title": "Mutual Back-Scratching Makes Everyone Else Itchy",
       "excerpt": "When one person or a close-knit team becomes the gatekeeper for assessing and selecting external suppliers, the organisation takes on more risk than it often realises.",
@@ -36,12 +42,6 @@
       "title": "Not Waiting on Game of Thrones Anymore",
       "excerpt": "When readers buy the first book in a series, they are not just buying paper, ink, or pixels.",
       "url": "https://lostmemos.substack.com/p/not-waiting-on-game-of-thrones-anymore"
-    },
-    {
-      "published_at": "2026-04-19T23:01:12+00:00",
-      "title": "AI-Driven 'Efficiency' or Promotion-Driven Sleight-of-Hand?",
-      "excerpt": "In too many boardrooms, AI is being sold as a lever.",
-      "url": "https://lostmemos.substack.com/p/ai-driven-efficiency-or-promotion"
     }
   ]
 }
