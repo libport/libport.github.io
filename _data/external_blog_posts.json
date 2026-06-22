@@ -2,9 +2,15 @@
   "feed_title": "Lost Memos",
   "posts": [
     {
+      "published_at": "2026-06-21T23:01:22+00:00",
+      "title": "The Emotional Economy of Work",
+      "excerpt": "Labour economics treats career choice as a rational response to wages, training costs, and job security.",
+      "url": "https://lostmemos.substack.com/p/the-emotional-economy-of-work"
+    },
+    {
       "published_at": "2026-06-14T23:01:26+00:00",
       "title": "The Store-Brand Future of AI",
-      "excerpt": "Neither supermarkets nor AI-markets need their store-brand items to be better than the premium products.",
+      "excerpt": "Supermarkets do not need their store-brand items to be better than the premium products.",
       "url": "https://lostmemos.substack.com/p/the-store-brand-future-of-ai"
     },
     {
@@ -36,12 +42,6 @@
       "title": "Non-Functional Requirements for Functional Human Beings",
       "excerpt": "AI has become remarkably good at helping people satisfy functional requirements.",
       "url": "https://lostmemos.substack.com/p/non-functional-requirements-for"
-    },
-    {
-      "published_at": "2026-05-10T23:01:57+00:00",
-      "title": "Not Waiting on Game of Thrones Anymore",
-      "excerpt": "When readers buy the first book in a series, they are not just buying paper, ink, or pixels.",
-      "url": "https://lostmemos.substack.com/p/not-waiting-on-game-of-thrones-anymore"
     }
   ]
 }
