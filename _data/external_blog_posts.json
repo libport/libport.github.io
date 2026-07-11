@@ -2,6 +2,12 @@
   "feed_title": "Lost Memos",
   "posts": [
     {
+      "published_at": "2026-07-05T23:01:24+00:00",
+      "title": "Terminators Terminate with No Debate",
+      "excerpt": "For most of human history, organised harm had a human bottleneck.",
+      "url": "https://lostmemos.substack.com/p/a-terminator-terminates-with-no-debate"
+    },
+    {
       "published_at": "2026-06-28T23:00:31+00:00",
       "title": "Private Investigators as Historians of the Very Recent Past",
       "excerpt": "Private investigation and historical analysis may seem like different fields, but they share a common purpose.",
@@ -36,12 +42,6 @@
       "title": "Intelligence, Human and Artificial",
       "excerpt": "The industrialisation of education promised efficiency, standardisation, and measurable outcomes.",
       "url": "https://lostmemos.substack.com/p/intelligence-human-and-artificial"
-    },
-    {
-      "published_at": "2026-05-21T23:01:01+00:00",
-      "title": "The 48 Laws of Power, Truth, Lies, and Truthful Lies",
-      "excerpt": "Robert Greene’s The 48 Laws of Power reads less like a history book than a candlelit theatre.",
-      "url": "https://lostmemos.substack.com/p/the-48-laws-of-power-and-true-lies"
     }
   ]
 }
