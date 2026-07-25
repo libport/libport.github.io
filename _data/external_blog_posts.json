@@ -2,8 +2,14 @@
   "feed_title": "Lost Memos",
   "posts": [
     {
+      "published_at": "2026-07-19T23:01:37+00:00",
+      "title": "When Teachers Keep Students in the Dark",
+      "excerpt": "Many writing classes begin with advice that sounds wise but is hard to use: “find your voice”, “raise the stakes”, “show, don’t tell” or “make every sentence earn its place”.",
+      "url": "https://lostmemos.substack.com/p/when-teachers-keep-students-in-the"
+    },
+    {
       "published_at": "2026-07-12T23:01:27+00:00",
-      "title": "History, Propaganda, and Consumer Culture",
+      "title": "We swear allegiance to the Swoosh",
       "excerpt": "History is one of the most powerful instruments of propaganda because it gives political ideas the weight of inheritance.",
       "url": "https://lostmemos.substack.com/p/history-propaganda-and-consumer-culture"
     },
@@ -36,12 +42,6 @@
       "title": "Mutual Back-Scratching Makes Everyone Else Itchy",
       "excerpt": "When one person or a close-knit team becomes the gatekeeper for assessing and selecting external suppliers, the organisation takes on more risk than it often realises.",
       "url": "https://lostmemos.substack.com/p/mutual-back-scratching-makes-everyone"
-    },
-    {
-      "published_at": "2026-05-31T23:01:00+00:00",
-      "title": "I’m Here to Buy Monkeys with My Peanuts",
-      "excerpt": "“They throw a lot of poop”",
-      "url": "https://lostmemos.substack.com/p/im-here-to-buy-monkeys-with-my-peanuts"
     }
   ]
 }
