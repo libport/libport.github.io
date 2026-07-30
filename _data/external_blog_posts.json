@@ -2,6 +2,12 @@
   "feed_title": "Lost Memos",
   "posts": [
     {
+      "published_at": "2026-07-26T23:01:07+00:00",
+      "title": "War as Taxation by Other Means",
+      "excerpt": "Conquest is often explained by pointing to mines, fertile plains, and trade routes.",
+      "url": "https://lostmemos.substack.com/p/war-as-taxation-by-other-means"
+    },
+    {
       "published_at": "2026-07-19T23:01:37+00:00",
       "title": "When Teachers Keep Students in the Dark",
       "excerpt": "Many writing classes begin with advice that sounds wise but is hard to use: “find your voice”, “raise the stakes”, “show, don’t tell” or “make every sentence earn its place”.",
@@ -36,12 +42,6 @@
       "title": "The Store-Brand Future of AI",
       "excerpt": "Supermarkets do not need their store-brand items to be better than the premium products.",
       "url": "https://lostmemos.substack.com/p/the-store-brand-future-of-ai"
-    },
-    {
-      "published_at": "2026-06-07T23:01:12+00:00",
-      "title": "Mutual Back-Scratching Makes Everyone Else Itchy",
-      "excerpt": "When one person or a close-knit team becomes the gatekeeper for assessing and selecting external suppliers, the organisation takes on more risk than it often realises.",
-      "url": "https://lostmemos.substack.com/p/mutual-back-scratching-makes-everyone"
     }
   ]
 }
